@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**soundarya820/soundarya820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, I'm Soundarya!
 
-Here are some ideas to get you started:
+### Computer Science Engineering Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile!
+
+- 🎓 I am studying Computer Science Engineering.
+- 💻 I enjoy learning programming and building projects.
+- 🌱 Currently learning Python, SQL, and Git.
+- 🚀 My goal is to build useful real-world applications.
+
+## Skills
+- Python
+- Java
+- SQL
+- HTML and CSS
+- Git and GitHub
+
+## Projects
+I will add my projects here as I build and improve them.
+
+## Connect with me
+- GitHub: https://github.com/soundarya820
