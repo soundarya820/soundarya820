@@ -117,15 +117,12 @@ My goal is to become a skilled software developer who builds reliable, user-frie
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_ADDRESS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soundarya-rukade-5a739b2b3/)
+
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soundaryarukade@gmail.com)
+
 [![GitHub](https://img.shields.io/badge/GitHub-soundarya820-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/soundarya820)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](YOUR_LEETCODE_URL)
 
-</div>
-
-<div align="center">
-
-*Learning, building, and improving one project at a time. ✨*
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Soundarya_Rukade_1125/)
 
 </div>
