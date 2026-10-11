@@ -1,13 +1,8 @@
-
-<div align="center">
-
 # Hi, I'm Soundarya 👋
 
 ### Computer Science Engineering Student | Software Development
 
 **Learning · Building · Improving 🚀**
-
-</div>
 
 ---
 
@@ -102,8 +97,11 @@ flowchart TD
 
 | Project | Domain / Focus | Technologies | Description |
 |---|---|---|---|
+| [CityEvent](https://github.com/soundarya820/CityEvent) | Full-Stack Web Development | React, JavaScript, Node.js, Express.js, MongoDB* | A local event discovery and management platform with dedicated interfaces for attendees, organizers, and administrators. |
 | OfficeFlow | Android Development | Java, Android, XML | An employee work companion app for organizing daily tasks, leave requests, and office communication. |
 | Parent–Teacher Portal | Web Development | HTML, CSS, JavaScript, PHP | A web-based portal designed to improve communication between parents and teachers, share student updates, and make academic information easier to access. |
+
+*List MongoDB as a technology only if it is part of your actual implementation.*
 
 ---
 
