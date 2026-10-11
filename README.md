@@ -3,7 +3,7 @@
 
 # Hi, I'm Soundarya 👋
 
-### Computer Science Engineering Student | Data Analytics | Software Development
+### Computer Science Engineering Student | Software Development
 
 **Learning · Building · Improving 🚀**
 
@@ -17,13 +17,13 @@
 Name: Soundarya
 Role: Computer Science Engineering Student
 Interests:
-  - Data Analytics and Business Intelligence
   - Software Development
   - Android Application Development
 Currently Learning:
-  - Advanced SQL and Python
-  - Power BI and Data Visualization
+  - MERN Stack
   - Git and GitHub
+  - Advanced SQL
+  - Advanced Java
 Goal: Build useful, real-world technology solutions
 ```
 
@@ -33,7 +33,7 @@ Goal: Build useful, real-world technology solutions
 
 ### 📱 OfficeFlow — Employee Work Companion
 
-An Android mobile application designed to bring everyday office activities into one centralized platform, with dedicated experiences for employees and managers.
+An Android mobile application designed to bring everyday office activities into one centralized platform for employees and managers.
 
 **Key Modules**
 - Authentication and user registration
@@ -42,13 +42,13 @@ An Android mobile application designed to bring everyday office activities into 
 - Internal requests
 - Office announcements
 
-**Application Architecture & Flow**
+### Application Architecture & Flow
 
 ```mermaid
 flowchart TD
-    A([Start]) --> B[Login]
+    A([Start]) --> B[Login / Registration]
     B --> C{Authentication}
-    C -- Invalid --> D[Show Error]
+    C -- Invalid --> D[Display Error]
     D --> B
     C -- Valid --> E{User Role}
     E -- Employee --> F[Employee Dashboard]
@@ -58,16 +58,20 @@ flowchart TD
     H --> I[Tasks / Leave / Requests / Announcements]
     I --> J[Retrieve or Update Data]
     J --> K[Display Results]
-    K --> L[Continue or Logout]
+    K --> L{Continue?}
+    L -- Yes --> H
+    L -- No --> M[Logout]
+    M --> N([End])
 ```
 
-**Technical Highlights**
-- **Frontend:** Android, Java, XML layouts
+### Technical Highlights
+
+- **Frontend:** Java, Android SDK, XML
+- **Development Environment:** Android Studio
 - **Build System:** Gradle with Kotlin DSL
 - **Backend / Database:** Firebase, where configured
-- **IDE:** Android Studio
 
-🔗 **[View OfficeFlow Repository](https://github.com/soundarya820/OfficeFlow)**
+🔗 [Explore OfficeFlow Repository](https://github.com/soundarya820/OfficeFlow)
 
 ---
 
@@ -77,25 +81,18 @@ flowchart TD
 
 ### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MERN](https://img.shields.io/badge/MERN_Stack-3C873A?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Data Engineering & Analytics
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Development Tools
+### Development Tools & Databases
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 </div>
 
@@ -105,28 +102,14 @@ flowchart TD
 
 | Project | Domain / Focus | Technologies | Description |
 |---|---|---|---|
-| OfficeFlow | Android Development | Java, Android, XML | Employee work companion application |
-| Forensiq | Cybersecurity | Python, Knowledge Graphs, Blockchain | Tender-risk analysis and audit project |
-| Neara AI | Artificial Intelligence | Verify against project repository | AI-powered hackathon project |
-| Data Analytics Projects | Data Analytics | Python, SQL, Power BI | Data exploration, analysis, and visualization |
-
-*Project descriptions and technology stacks should be updated to match each project's actual implementation.*
-
----
-
-## Currently Learning & Upskilling
-
-- [ ] Advanced SQL and query optimization
-- [ ] Power BI dashboards and DAX
-- [ ] Python for data analysis
-- [ ] Git and GitHub workflows
-- [ ] Android application development
+| OfficeFlow | Android Development | Java, Android, XML | An employee work companion app for organizing daily tasks, leave requests, and office communication. |
+| Parent–Teacher Portal | Web Development | HTML, CSS, JavaScript, PHP | A web-based portal designed to improve communication between parents and teachers, share student updates, and make academic information easier to access. |
 
 ---
 
 ## Career Goal
 
-> My goal is to combine analytical thinking and software development skills to build practical, data-driven solutions that solve real-world problems. I believe in continuous learning, hands-on projects, and improving through experimentation.
+My goal is to become a skilled software developer who builds reliable, user-friendly applications and solves real-world problems through technology. I am focused on strengthening my programming fundamentals, developing full-stack web applications using the MERN stack, improving my SQL and Java skills, and gaining practical experience through projects. I believe in continuous learning, clean code, teamwork, and building solutions that make everyday tasks easier.
 
 ---
 
@@ -134,7 +117,10 @@ flowchart TD
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-soundarya820-181717?style=for-the-badge&logo=github)](https://github.com/soundarya820)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_ADDRESS)
+[![GitHub](https://img.shields.io/badge/GitHub-soundarya820-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/soundarya820)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](YOUR_LEETCODE_URL)
 
 </div>
 
